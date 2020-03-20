@@ -65,3 +65,32 @@ NCFL's guide to 30 Days of Families Learning Together provides a month's worth o
 | Schools | Business | Non-Profit | Personal |
 | :-----: | :------: | :--------: | :------: |
 |         |          |            |    O     |
+
+## Comcast
+
+1. [New Internet Essentials](https://www.internetessentials.com/covid19#thingstoknow&all_CanIdisconnectatanytime)
+New Internet Essentials customers will receive two free months of Internet service, which is available to all qualified low-income households for $9.95/month plus tax. Apply by April 30, 2020. 
+
+| Schools | Business | Non-Profit |    Personal    |
+| :-----: | :------: | :--------: | :------------: |
+|         |          |            | O <sup>1</sup> |
+
+<sup>1</sup> **Only for new low-income household subscribers. The contact can be cancelled after the 2 free months and will incurred a charge of $9.95/month plus tax if not cancelled.**
+
+## Spectrum
+
+1. Spectrum Internet
+
+In an effort to ensure Americans have necessary access to online resources, qualifying households with students can get 60 days of FREE access with a Spectrum Internet account.
+
+* Available for households with K-12 or college students
+* Limited to new accounts who do not already have a Spectrum Internet subscription
+* Free installation options available
+
+
+
+| Schools | Business | Non-Profit |    Personal    |
+| :-----: | :------: | :--------: | :------------: |
+|         |          |            | O <sup>1</sip> |
+
+<sup>1</sup> **Limited time offer; subject to change. Two (2) free months Internet and WiFi service available to households with students requiring remote education at the service address. Valid to qualified residential customers who have not subscribed to Internet services within the previous 30 days and have no outstanding obligation to Charter. Free months will be applied as a bill credit. Offer applies to speeds up to 200 Mbps. If you do not call to cancel your service before free period ends, standard rates apply. Taxes and fees extra; subject to change during and after the promotional period; professional installation (unless self-install not available), equipment and additional services are extra. Restrictions apply. &copy;2020 Charter Communications.**
