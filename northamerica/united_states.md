@@ -79,7 +79,7 @@ New Internet Essentials customers will receive two free months of Internet servi
 
 ## Spectrum
 
-1. Spectrum Internet
+1. [Spectrum Internet](https://www.spectrum.com/)
 
 In an effort to ensure Americans have necessary access to online resources, qualifying households with students can get 60 days of FREE access with a Spectrum Internet account.
 
