@@ -60,6 +60,18 @@ G Suite for Non Profit helps nonprofit collaborate more effectively with smart, 
 | :-----: | :------: | :--------: | :------: |
 |    O    |          |            |          |
 
+### Slack
+
+1. [Slack](https://slack.com/pricing) offers a free plan for small teams trying out Slack for an unlimited period of time.
+
+* Access to 10,000 of your team's most recent messages
+* 10 integrations with other apps like Google Drive, Office 365 and many more
+* 1:1 voice and video calls between teammates
+
+| Schools | Business | Non-Profit | Personal |
+| :-----: | :------: | :--------: | :------: |
+|    O    |    O     |     O      |    O     |
+
 ### Zoom
 
 1. [Zoom](https://zoom.us/pricing) offers a free basic product that provides Video Conferencing, Web Conferencing, Group Collaboration Features. It is also offering the removal of the 40 min restriction for K-12 schools during the COVID-19 period. More details can be found at the [K-12 school verification page](https://zoom.us/docs/ent/school-verification.html).
