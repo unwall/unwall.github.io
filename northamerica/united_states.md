@@ -31,9 +31,38 @@ G Suite for Non Profit helps nonprofit collaborate more effectively with smart, 
 | :-----: | :------: | :--------: | :------: |
 |         |          |     O      |          |
 
-### [Zoom](https://zoom.us/pricing)
+### Microsoft
 
-1. Zoom offers a free basic product that provides Video Conferencing, Web Conferencing, Group Collaboration Features. It is also offering the removal of the 40 min restriction for K-12 schools during the COVID-19 period. More details can be found at the [K-12 school verification page](https://zoom.us/docs/ent/school-verification.html).
+1. [Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) Completely free online version of Office with email, video conferencing, customized hub for class teamwork with Microsoft Teams, compliance tools, and information protection.
+
+* Web versions of Word, PowerPoint, Excel, OneNote, and Outlook
+* Desktop version of OneNote
+* Microsoft Teams, a digital hub that integrates the conversations, content, and apps your school needs to be more collaborative and engaged
+* Class and Staff notebooks
+* Professional Learning Community (PLC) groups
+* Self-grading quizzes with Forms
+* Digital storytelling with Sway
+* Inform and engage with communication sites and team sites throughout your intranet using SharePoint
+* Compliance solutions with a unified eDiscovery center
+* Rights management, data loss prevention, and encryption 
+* Enterprise video service for creating, managing, and sharing videos securely across an organization
+* App development without writing code to extend business data quickly with custom web and mobile apps
+* Workflow automation across apps and services to automate business processes without writing code
+* Plan schedules and daily tasks with Microsoft Teams
+* Email with 50 GB mailbox 1
+* Unlimited personal cloud storage 2
+* HD video conferencing
+* Maximum number of users: unlimited
+* Unlimited email storage with In-Place archiving
+* Advanced email with archiving and legal hold
+
+| Schools | Business | Non-Profit | Personal |
+| :-----: | :------: | :--------: | :------: |
+|    O    |          |            |          |
+
+### Zoom
+
+1. [Zoom](https://zoom.us/pricing) offers a free basic product that provides Video Conferencing, Web Conferencing, Group Collaboration Features. It is also offering the removal of the 40 min restriction for K-12 schools during the COVID-19 period. More details can be found at the [K-12 school verification page](https://zoom.us/docs/ent/school-verification.html).
 
 | Schools | Business | Non-Profit | Personal |
 | :-----: | :------: | :--------: | :------: |
