@@ -128,14 +128,16 @@ Starting today, recently laid-off workers who want to learn about or apply for t
 |         |          |            |    O     |
 
 ### Coursera
-[Coursera Together](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) To help the community handle the impacts of CONVID-19, Coursera is launching new, free resources, as well as surfacing interesting course collections, community discussions, and expert interviews.
+
+1. [Coursera Together](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) To help the community handle the impacts of CONVID-19, Coursera is launching new, free resources, as well as surfacing interesting course collections, community discussions, and expert interviews.
 
 | Schools | Business | Non-Profit | Personal |
 | :-----: | :------: | :--------: | :------: |
 |         |          |            |    O     |
 
 ### Leetcode
-[30 Day LeetCoding Challenge](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge) LeetCode is running the 30-Day LeetCoding Challenge for the month of April. Each day, we'll challenge you to solve a frequently-asked interview problem.
+
+1. [30 Day LeetCoding Challenge](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge) LeetCode is running the 30-Day LeetCoding Challenge for the month of April. Each day, we'll challenge you to solve a frequently-asked interview problem.
 
 | Schools | Business | Non-Profit | Personal |
 | :-----: | :------: | :--------: | :------: |
