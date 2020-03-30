@@ -111,6 +111,36 @@ In an effort to ensure Americans have necessary access to online resources, qual
 
 ## Education Software & Lessons
 
+### Udacity
+
+1. [Scholarships](https://blog.udacity.com/2020/03/udacity-offers-laid-off-workers-new-scholarship.html) The Udacity team is offering the scholarship as part of its ongoing commitment to the White House's Pledge to America's Workers — a promise by leading American businesses and trade associations to create more jobs, strengthen the U.S. economy, and restore hopeful futures to countless families.
+
+Starting today, recently laid-off workers who want to learn about or apply for the scholarship can visit udacity.com/pledge-to-americas-workers. At this time, the scholarship is limited to 50 laid-off employees per company.
+
+| Schools | Business | Non-Profit | Personal |
+| :-----: | :------: | :--------: | :------: |
+|         |          |            |    O     |
+
+2. [COVID-19 Free Access](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) Udacity is everyone one free month on one of 40 premium Nanodegree programs to help people handle the impacts of COVID-19
+
+| Schools | Business | Non-Profit | Personal |
+| :-----: | :------: | :--------: | :------: |
+|         |          |            |    O     |
+
+### Coursera
+[Coursera Together](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) To help the community handle the impacts of CONVID-19, Coursera is launching new, free resources, as well as surfacing interesting course collections, community discussions, and expert interviews.
+
+| Schools | Business | Non-Profit | Personal |
+| :-----: | :------: | :--------: | :------: |
+|         |          |            |    O     |
+
+### Leetcode
+[30 Day LeetCoding Challenge](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge) LeetCode is running the 30-Day LeetCoding Challenge for the month of April. Each day, we'll challenge you to solve a frequently-asked interview problem.
+
+| Schools | Business | Non-Profit | Personal |
+| :-----: | :------: | :--------: | :------: |
+|         |          |            |    O     |
+
 ### National Center for Families Learning
 
 1. [Wonderopolis&reg;](http://30days.familieslearning.org/)
